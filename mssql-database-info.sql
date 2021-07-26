@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------
 --Autor          : Hidequel Puga
 --Fecha          : 2021-02-19
---Descripción    : Muestra información de las base de datos
+--DescripciÃ³n    : Muestra informaciÃ³n de las base de datos
 ----------------------------------------------------------------------------------------------------------
 
 		  SELECT a.database_id
